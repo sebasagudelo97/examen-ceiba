@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.negocio.unitaria.ValidarIsbnTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-25T02:59:46" hostname="DESKTOP-HLD0GQO" time="0.0">
+  <properties/>
+  <testcase name="validarIsbnPalindromaTest" classname="dominio.negocio.unitaria.ValidarIsbnTest" time="0.0"/>
+  <testcase name="obtenerDigitosIsbnTest" classname="dominio.negocio.unitaria.ValidarIsbnTest" time="0.0"/>
+  <testcase name="validarIsbnNoPalindromaTest" classname="dominio.negocio.unitaria.ValidarIsbnTest" time="0.0"/>
+  <testcase name="sumarDigitosIsbnTest" classname="dominio.negocio.unitaria.ValidarIsbnTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

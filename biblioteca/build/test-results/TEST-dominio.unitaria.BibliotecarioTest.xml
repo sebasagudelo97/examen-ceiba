@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.unitaria.BibliotecarioTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-25T02:59:46" hostname="DESKTOP-HLD0GQO" time="0.097">
+  <properties/>
+  <testcase name="esPrestadoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.095"/>
+  <testcase name="CalcularFechaEntregaDigitosMenorTreintaTest" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <testcase name="libroNoPrestadoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="CalcularFechaEntregaDigitosMayorTreintaTest" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
